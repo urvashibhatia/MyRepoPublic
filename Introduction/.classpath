@@ -6,6 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="lib" path="C:/Users/urvas/Desktop/Job and work/java_selenium/selenium-java-3.6.0/libs/byte-buddy-1.7.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/urvas/Desktop/Job and work/java_selenium/selenium-java-3.6.0/libs/commons-codec-1.10.jar"/>
 	<classpathentry kind="lib" path="C:/Users/urvas/Desktop/Job and work/java_selenium/selenium-java-3.6.0/libs/commons-exec-1.3.jar"/>
